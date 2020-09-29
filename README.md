@@ -1,2 +1,2 @@
 # ntdp
-Nonparametric Topological Domain
+nonparametric domain prediction
